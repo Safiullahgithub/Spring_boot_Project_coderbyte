@@ -1,4 +1,4 @@
 # Spring_boot_Project_coderbyte
-# Maven Project
+# Maven Project using starter
 # Tool Usage
 # IDEs 
